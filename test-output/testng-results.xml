@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-07T21:05:06 IST" name="Default suite" finished-at="2022-11-07T21:07:57 IST" duration-ms="170598">
+    <groups>
+    </groups>
+    <test started-at="2022-11-07T21:05:06 IST" name="Default test" finished-at="2022-11-07T21:07:57 IST" duration-ms="170598">
+      <class name="POM_Schnieder.Assignment_Graas.testclass">
+        <test-method is-config="true" signature="openapp()[pri:0, instance:POM_Schnieder.Assignment_Graas.testclass@130c12b7]" started-at="2022-11-07T21:05:06 IST" name="openapp" finished-at="2022-11-07T21:05:42 IST" duration-ms="35968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="clickonproduct()[pri:0, instance:POM_Schnieder.Assignment_Graas.testclass@130c12b7]" started-at="2022-11-07T21:05:42 IST" name="clickonproduct" finished-at="2022-11-07T21:07:57 IST" duration-ms="134350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonproduct -->
+      </class> <!-- POM_Schnieder.Assignment_Graas.testclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
